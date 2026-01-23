@@ -8,7 +8,6 @@ I've been learning code for 5+ years since college. I started with HTML and my f
 
 * 🌍  I'm based in Tangerang, Indonesia
 * ✉️  You can contact me at [m.alifrhamadhan@gmail.com](mailto:m.alifrhamadhan@gmail.com)
-* 🧠  I'm learning Englist Language, Redis, Pub/Sub, Message Broker
 * 🤝  I'm open to collaborating on Other Project (Backend / Web Dev)
 
 ### Skills
