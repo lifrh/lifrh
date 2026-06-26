@@ -24,4 +24,4 @@ I've been learning code for 5+ years since college. I started with HTML and my f
 
 
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=lifrh)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lifrh&stats_format=bytes)
