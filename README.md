@@ -25,5 +25,5 @@ I've been learning code for 5+ years since college. I started with HTML and my f
 
 
 ![lifrh's Stats](https://github-readme-stats.vercel.app/api?username=lifrh&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
-![lifrh's Stats](https://github-readme-stats.vercel.app/apitop-langs/?username=lifrh&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
+![lifrh's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=lifrh&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
 
